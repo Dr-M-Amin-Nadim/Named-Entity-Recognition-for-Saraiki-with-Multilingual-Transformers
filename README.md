@@ -33,9 +33,9 @@ Annotations use 11 BIO labels:
 
 ## Files
 
-- `saraikiner/train.conllu`
-- `saraikiner/dev.conllu`
-- `saraikiner/test.conllu`
+- `train.conllu`
+- `dev.conllu`
+- `test.conllu`
 
 The files preserve the tokenization and sentence boundaries of the source corpus. NER labels are separate from UPOS tags.
 
