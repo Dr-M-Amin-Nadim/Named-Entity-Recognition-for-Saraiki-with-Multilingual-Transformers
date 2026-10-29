@@ -1,4 +1,4 @@
-# Saraiki NER Dataset
+# Named Entity Recognition for Saraiki with Multilingual Transformers
 
 A Saraiki corpus in Perso-Arabic script manually annotated for named entity recognition (NER) using the BIO tagging scheme.
 
