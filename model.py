@@ -34,7 +34,7 @@ TEST_CONLLU = (
 )
 
 BASE_SAVE_DIR = (
-    r"C:\Users\usman\PycharmProjects\nersaraiki"
+    r"C:\Users\nersaraiki"
     r"\ner_model"
 )
 os.makedirs(BASE_SAVE_DIR, exist_ok=True)
